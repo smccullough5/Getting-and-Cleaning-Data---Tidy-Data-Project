@@ -8,7 +8,7 @@ This code depends on dplyr.  Please make sure you have this package loaded into 
 
 Make sure that the files are unzipped and in the parent directory.  If not please go to 
 
-	[Link to zip file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
+	[Link to file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 
 How the code works
 ================================================================================================================
